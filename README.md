@@ -40,10 +40,10 @@ python-libraries-learning/
 
 ## Learning Roadmap
 
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Matplotlib
-- [ ] Seaborn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Goal
 
